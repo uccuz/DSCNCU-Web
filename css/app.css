@@ -1,0 +1,13 @@
+nav.navbar {
+    transition: 0.5s;
+}
+
+.banner {
+    background-image: url(../imgs/banner.png);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: auto;
+    height: 600px;
+    margin-bottom: 60px;
+}
